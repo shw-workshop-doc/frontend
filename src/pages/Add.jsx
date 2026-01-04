@@ -24,7 +24,6 @@ export default function Form() {
         navigate('/')
         } catch (error) {
 
-            toast.error(res.data.message)
             console.log(error)
             
         }
