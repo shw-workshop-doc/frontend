@@ -1,0 +1,1 @@
+export const host = 'https://backend-akgp.onrender.com/expense'
